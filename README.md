@@ -54,5 +54,5 @@
 <a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="./assets/linkedin.svg"/></a>
 <a href="mailto:haseebdr01@gmail.com"><img src="https://img.shields.io/badge/-haseebdr01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/people/Haseeb-Moheb"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-haseeb1moheb-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p> 
