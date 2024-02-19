@@ -3,11 +3,14 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Haseeb -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+💻 &nbsp;Full-Stack Developer\
+🌐 &nbsp;I develop 3D visuals, user interfaces and web applications
+💡 &nbsp;I like to explore new technologies and develop software solutions\
+🎓 &nbsp;I'm currently pursuing my Bachelor's degree in Information Technology\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
+⚽️ &nbsp;In my free time, I play Chess![R](https://github.com/Haseeb-Moheb/Haseeb-Moheb/assets/118638791/0b1ceb9b-8dd3-477e-a56f-e611ea97e60e)
+, Tennis, Volleyball, Walking.\
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing my bachelor's degree in Information Technology.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking.\
 
 
 
@@ -50,8 +53,8 @@
 
 <p align="center">
 <a href="https://www.haseebmoheb.com"><img src="https://img.shields.io/badge/-haseebmoheb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="https://img.shields.io/badge/-haseebullah-moheb-47b17b94?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="https://img.shields.io/badge/-47b17b94?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:haseebdr01@gmail.com"><img src="https://img.shields.io/badge/-haseebdr01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/people/Haseeb-Moheb"><img src="https://img.shields.io/badge/-Haseeb-Moheb-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/people/Haseeb-Moheb"><img src="https://img.shields.io/badge/-61555550106486&sk-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-haseeb1moheb-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p> 
