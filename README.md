@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://www.haseebmoheb.com"><img src="https://img.shields.io/badge/-haseebmoheb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="file:///C:/Users/hasee/OneDrive/Desktop/Full%20Stack%20Dev%20Projects/Haseeb-Moheb/assets/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="./assets/linkedin.svg"/></a>
 <a href="mailto:haseebdr01@gmail.com"><img src="https://img.shields.io/badge/-haseebdr01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/people/Haseeb-Moheb"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
