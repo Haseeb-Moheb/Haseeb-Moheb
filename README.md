@@ -6,7 +6,7 @@
 💻 &nbsp;Full-Stack Developer\
 🌐 &nbsp;I develop 3D visuals, user interfaces and web applications\
 💡 &nbsp;I like to explore new technologies and develop software solutions\
-🎓 &nbsp;I'm currently pursuing my Bachelor's degree in Information Technology\
+🎓 &nbsp;I'm currently pursuing my Bachelor's Degree in Computer Science\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
 ⚽️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking
 
@@ -53,8 +53,8 @@
 
 <p align="center">
 <a href="https://www.haseebmoheb.com"><img src="https://img.shields.io/badge/-haseebmoheb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a https://img.shields.io/badge/Haseebullah-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaseebullah-moheb-47b17b94%2F/></a>
+<a href="https://img.shields.io/badge/Haseebullah-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaseebullah-moheb-47b17b94%2F"/></a>
 <a href="mailto:haseebdr01@gmail.com"><img src="https://img.shields.io/badge/-haseebdr01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a https://img.shields.io/badge/HaseebMoheb-rgb(0%2C0%2C255)?style=flat-square&logo=Facebook&logoColor=white&labelColor=rgb(0%2C0%2C255)&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61555550106486/></a>
+<a href="https://img.shields.io/badge/HaseebMoheb-rgb(0%2C0%2C255)?style=flatsquare&logo=Facebook&logoColor=white&labelColor=rgb(0%2C0%2C255)&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61555550106486"/></a>
 <a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-haseeb1moheb-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p> 
