@@ -13,12 +13,11 @@
 ## ⚡ Technologies
 
 ### Language :
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<a href="https://html.spec.whatwg.org/multipage/introduction.html#background"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
+<a href="https://css3.com/"><img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=rgb(255%2C240%2C0)"/></a>
 <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"><img src="https://img.shields.io/badge/TypeScript-rgb(30%2C144%2C255)?style=flat&logo=TypeScript&logoColor=white"/></a>
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-rgb(255%2C239%2C0)?style=flat&logo=Python&logoColor=blue"/></a>
 
 ### Libraries & Framework :
 
