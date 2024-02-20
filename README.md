@@ -53,8 +53,8 @@
 
 <p align="center">
 <a href="https://www.haseebmoheb.com"><img src="https://img.shields.io/badge/-haseebmoheb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Haseebullah-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaseebullah-moheb-47b17b94%2F"/></a>
+<a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="https://img.shields.io/badge/Haseebullah-blue?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:haseebdr01@gmail.com"><img src="https://img.shields.io/badge/-haseebdr01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/HaseebMoheb-rgb(0%2C0%2C255)?style=flatsquare&logo=Facebook&logoColor=white&labelColor=rgb(0%2C0%2C255)&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61555550106486"/></a>
+<a href="https://www.facebook.com/profile.php?id=61555550106486"><img src="https://img.shields.io/badge/HaseebMoheb-rgb(0%2C0%2C255)?style=flat&logo=Facebook&logoColor=white&labelColor=rgb(0%2C0%2C255)/></a>
 <a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-haseeb1moheb-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p> 
