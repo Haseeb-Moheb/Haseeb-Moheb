@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
 ⚽️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking
 
-## ⚡ Technologies
+## ⚡Skills
 
 ### Language :
 <a href="https://html.spec.whatwg.org/multipage/introduction.html#background"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
@@ -39,9 +39,9 @@
 <a href="https://azure.microsoft.com/en-us"/><img src="https://img.shields.io/badge/Microsoft%20Azure-rgb(30%2C144%2C255)?style=flat&logo=postman&logoColor=white"/></a>
 <a href="https://vitejs.dev/"/><img src="https://img.shields.io/badge/Vite-rgb(138%2C43%2C226)?style=flat&logo=Vite&logoColor=rgb(239%2C204%2C0)"/></a>
 <a href="https://aws.amazon.com/contact-us/?nc2=h_header"/><img src="https://img.shields.io/badge/Amazon%20AWS-rgb(255%2C127%2C0)?style=flat&logo=Amazon%20AWS&logoColor=black"/></a>
+<a href="https://git-scm.com/"/><img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git"/></a>
 <a href="https://cloud.google.com/"/><img src="https://img.shields.io/badge/Google%20Cloud-rgb(227%2C0%2C34)?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=rgb(30%2C144%2C255)"/></a>
 <a href="https://www.docker.com/"/><img src="https://img.shields.io/badge/Docker-rgb(50%2C74%2C178)?style=flat&logo=Docker&logoColor=white"/></a>
-<a href="https://git-scm.com/"/><img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
