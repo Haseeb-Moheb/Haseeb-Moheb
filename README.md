@@ -32,15 +32,16 @@
 
 ### DevOps & Cloud Tools:
 
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+<a href="https://www.mongodb.com/"/><img src="https://img.shields.io/badge/MongoDB-rgb(50%2C205%2C50)?style=flat&logo=MongoDB&logoColor=white&labelColor=rgb(50%2C205%2C50)"/></a>
+<a href="https://github.com/"/><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.postman.com/"/><img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white"/></a>
+<a href="https://vercel.com/"/><img src="https://img.shields.io/badge/Vercel-rgb(25%2C25%2C112)?style=flat&logo=Vercel&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/en-us"/><img src="https://img.shields.io/badge/Microsoft%20Azure-rgb(30%2C144%2C255)?style=flat&logo=postman&logoColor=white"/></a>
+<a href="https://vitejs.dev/"/><img src="https://img.shields.io/badge/Vite-rgb(138%2C43%2C226)?style=flat&logo=Vite&logoColor=rgb(239%2C204%2C0)"/></a>
+<a href="https://aws.amazon.com/contact-us/?nc2=h_header"/><img src="https://img.shields.io/badge/Amazon%20AWS-rgb(255%2C127%2C0)?style=flat&logo=Amazon%20AWS&logoColor=black"/></a>
+<a href="https://cloud.google.com/"/><img src="https://img.shields.io/badge/Google%20Cloud-rgb(227%2C0%2C34)?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=rgb(30%2C144%2C255)"/></a>
+<a href="https://www.docker.com/"/><img src="https://img.shields.io/badge/Docker-rgb(50%2C74%2C178)?style=flat&logo=Docker&logoColor=white"/></a>
+<a href="https://git-scm.com/"/><img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
