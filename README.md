@@ -10,9 +10,9 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
 ⚽️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking
 
-## ⚡Skills
+##⚡Skills
 
-### Language :
+### Languages:
 <a href="https://html.spec.whatwg.org/multipage/introduction.html#background"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <a href="https://css3.com/"><img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=rgb(255%2C240%2C0)"/></a>
@@ -58,6 +58,6 @@
 <a href="https://www.haseebmoheb.com"><img src="https://img.shields.io/badge/-haseebmoheb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/haseebullah-moheb-47b17b94/"><img src="https://img.shields.io/badge/Haseebullah-blue?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:haseebdr01@gmail.com"><img src="https://img.shields.io/badge/-haseebdr01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=61555550106486/"><img src="https://img.shields.io/badge/HaseebMoheb-rgb(0%2C0%2C255)?style=flat&logo=Facebook"/></a>
+<a href="https://www.facebook.com/profile.php?id=61555550106486"><img src="https://img.shields.io/badge/HaseebMoheb-rgb(0%2C0%2C255)?style=flat&logo=Facebook"/></a>
 <a href="https://www.pinterest.com/haseeb1moheb/"><img src="https://img.shields.io/badge/-haseeb1moheb-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p> 
