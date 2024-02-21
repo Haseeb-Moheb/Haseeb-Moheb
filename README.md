@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
 ⚽️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking
 
-##⚡Skills
+## ⚡Skills
 
 ### Languages:
 <a href="https://html.spec.whatwg.org/multipage/introduction.html#background"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
