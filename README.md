@@ -19,14 +19,16 @@
 <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"><img src="https://img.shields.io/badge/TypeScript-rgb(30%2C144%2C255)?style=flat&logo=TypeScript&logoColor=white"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-rgb(255%2C239%2C0)?style=flat&logo=Python&logoColor=blue"/></a>
 
-### Libraries & Framework :
+### Libraries & Frameworks:
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20-%23D00000.svg?logo=Tailwind&logoColor=white"></a>
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-rgb(138%2C43%2C226)?style=flat&logo=Bootstrap&logoColor=white"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-rgb(8%2C146%2C208)?style=flat&logo=TailwindCSS&logoColor=rgb(0%2C20%2C168)"/></a>
+<a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node%20JS-rgb(80%2C125%2C42)?style=flat&logo=Node.js&logoColor=white"/></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React%20JS-rgb(0%2C149%2C182)?style=flat&logo=React&logoColor=black"/></a>
+<a href="https://mui.com/material-ui/"><img src="https://img.shields.io/badge/Material%20UI-rgb(30%2C144%2C255)?style=flat&logo=Material%20Design&logoColor=rgb(0%2C0%2C139)"/></a>
+<a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three%20JS-black?style=flat&logo=Three.js&logoColor=white"/></a>
+<a href="https://www.w3schools.com/react/react_jsx.asp"><img src="https://img.shields.io/badge/JSX-rgb(50%2C205%2C50)?style=flat&logo=JavaScript&logoColor=rgb(255%2C223%2C0)"/></a>
+<a href="https://numpy.org/"/><img src="https://img.shields.io/badge/NumPy-rgb(75%2C0%2C130)?style=flat&logo=NumPy&logoColor=white"/></a>
 
 ### DevOps & Cloud Tools:
 
