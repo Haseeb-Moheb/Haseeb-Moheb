@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions\
 🎓 &nbsp;I'm currently pursuing my Bachelor's Degree in Computer Science\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
-⚽️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking
+⚽️ &nbsp;In my free time, I play Chess, Tennis, Volleyball, Walking\
 ☕ &nbsp;Coffee aficionado 😋
 
 ## ⚡Skills
