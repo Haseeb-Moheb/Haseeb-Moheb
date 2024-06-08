@@ -30,6 +30,7 @@
 <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three%20JS-black?style=flat&logo=Three.js&logoColor=white"/></a>
 <a href="https://www.w3schools.com/react/react_jsx.asp"><img src="https://img.shields.io/badge/JSX-rgb(50%2C205%2C50)?style=flat&logo=JavaScript&logoColor=rgb(255%2C223%2C0)"/></a>
 <a href="https://numpy.org/"/><img src="https://img.shields.io/badge/NumPy-rgb(75%2C0%2C130)?style=flat&logo=NumPy&logoColor=white"/></a>
+<a href="https://nextjs.org/"/><img src="https://img.shields.io/badge/Next%20JS%20-%20black?style=flat&logo=Next.js"/></a>
 
 ### DevOps & Cloud Tools:
 
