@@ -31,6 +31,7 @@
 <a href="https://www.w3schools.com/react/react_jsx.asp"><img src="https://img.shields.io/badge/JSX-rgb(50%2C205%2C50)?style=flat&logo=JavaScript&logoColor=rgb(255%2C223%2C0)"/></a>
 <a href="https://numpy.org/"/><img src="https://img.shields.io/badge/NumPy-rgb(75%2C0%2C130)?style=flat&logo=NumPy&logoColor=white"/></a>
 <a href="https://nextjs.org/"/><img src="https://img.shields.io/badge/Next%20JS%20-%20black?style=flat&logo=Next.js"/></a>
+<a href="https://docs.pmnd.rs/zustand/getting-started/introduction"/><img src="https://img.shields.io/badge/Zustand%20-%20brown?style=flat&label=Z"/></a>
 
 ### DevOps & Cloud Tools:
 
@@ -44,6 +45,7 @@
 <a href="https://git-scm.com/"/><img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git"/></a>
 <a href="https://cloud.google.com/"/><img src="https://img.shields.io/badge/Google%20Cloud-rgb(227%2C0%2C34)?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=rgb(30%2C144%2C255)"/></a>
 <a href="https://www.docker.com/"/><img src="https://img.shields.io/badge/Docker-rgb(50%2C74%2C178)?style=flat&logo=Docker&logoColor=white"/></a>
+<a href="https://www.sanity.io/"/><img src="https://img.shields.io/badge/Sanity%20-%20orange?style=flat&logo=sanity&labelColor=black&color=ff4500"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
