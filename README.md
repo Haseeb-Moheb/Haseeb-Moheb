@@ -32,7 +32,7 @@
 <a href="https://numpy.org/"/><img src="https://img.shields.io/badge/NumPy-rgb(75%2C0%2C130)?style=flat&logo=NumPy&logoColor=white"/></a>
 <a href="https://nextjs.org/"/><img src="https://img.shields.io/badge/Next%20JS%20-%20black?style=flat&logo=Next.js"/></a>
 <a href="https://docs.pmnd.rs/zustand/getting-started/introduction"/><img src="https://img.shields.io/badge/Zustand%20-%20brown?style=flat&label=Z"/></a>
-<a href="https://angular.dev/"/><img src="https://img.shields.io/badge/Angular-purple?style=flat-square&logo=Angular&logoColor=light%20purple"/></a>
+<a href="https://angular.dev/"/><img src="https://img.shields.io/badge/Angular-%23B23CF7?style=flat-square&logo=Angular&logoColor=light%20purple"/></a> 
 
 
 ### DevOps & Cloud Tools:
